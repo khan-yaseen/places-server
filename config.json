@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/server",
+    "secret": "TRUCKISH PROBLEM STATEMENT"
+}
